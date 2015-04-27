@@ -1,0 +1,4 @@
+## Disclaimer ##
+_This wiki is the personal notebook of the JISCPID Programme Manager (David F. Flanders). As this is David's personal notebook it will only really make sense to the him; however, DFF is glad to share his notes with you in an effort to demonstrate transparency and openness (FoI). In short, feel free to read but please know these are just notes so please email David for further clarification before assuming anything: d.flanders@jisc.ac.uk_
+
+The official JISC website is available at jisc.ac.uk.  Please do not use any of the links from this notebook as they will NOT persist, rather please [use this link to cite any of the JISCPID Programme of work](http://www.jisc.ac.uk/whatwedo/programmes/inf11/jiscPID).
